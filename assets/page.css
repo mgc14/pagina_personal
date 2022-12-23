@@ -1,0 +1,12 @@
+
+  .imge-responsive{
+    width:100em;
+    height:45em;
+    margin: center;
+    opacity: 95%; 
+    object-fit: cover; 
+  
+  }
+  .header1{
+    position: absolute;
+  }
